@@ -1,0 +1,74 @@
+[
+    {
+      "buldingNumber": "7F",
+      "flatNumber": 4,
+      "flatArea": 28,
+      "participation": 1,
+      "guestCapacity": 1,
+      "numOfBeds": 1,
+      "ownerId": "6043e87c641f0018b0b0f04a"
+
+    },
+    {
+        "buldingNumber": "6A",
+        "flatNumber": 2,
+        "flatArea": 28,
+        "participation": 1,
+        "guestCapacity": 1,
+        "numOfBeds": 1,
+        "ownerId": "6043e87c641f0018b0b0f04a"
+  
+      },
+      {
+        "buldingNumber": "1C",
+        "flatNumber": 5,
+        "flatArea": 28,
+        "participation": 1,
+        "guestCapacity": 1,
+        "numOfBeds": 1,
+        "ownerId": "6043e87c641f0018b0b0f04a"
+  
+      },
+      {
+        "buldingNumber": "2D",
+        "flatNumber": 4,
+        "flatArea": 28,
+        "participation": 1,
+        "guestCapacity": 1,
+        "numOfBeds": 1,
+        "ownerId": "6043e87c641f0018b0b0f04a"
+  
+      },
+      {
+        "buldingNumber": "3C",
+        "flatNumber": 2,
+        "flatArea": 28,
+        "participation": 1,
+        "guestCapacity": 1,
+        "numOfBeds": 1,
+        "ownerId": "6043e87c641f0018b0b0f04a"
+  
+      },
+      {
+        "buldingNumber": "2C",
+        "flatNumber": 1,
+        "flatArea": 28,
+        "participation": 1,
+        "guestCapacity": 1,
+        "numOfBeds": 1,
+        "ownerId": "6043e87c641f0018b0b0f04a"
+  
+      },
+      {
+        "buldingNumber": "1B",
+        "flatNumber": 13,
+        "flatArea": 28,
+        "participation": 1,
+        "guestCapacity": 1,
+        "numOfBeds": 1,
+        "ownerId": "6043e87c641f0018b0b0f04a"
+  
+      }
+
+  ]
+  
